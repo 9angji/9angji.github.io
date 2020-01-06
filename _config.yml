@@ -46,7 +46,7 @@ google_fonts:        Lato
 google_analytics:    UA-149253204-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
-disqus_shortname:    9angji
+disqus_shortname:    9angji-github-io.
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2019. by Jiyeon Kang'
