@@ -6,7 +6,7 @@ title:               Forever Young.
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://9angji.github.io.
+url:                 https://9angji.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
@@ -46,7 +46,7 @@ google_fonts:        Lato
 google_analytics:    UA-149253204-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
-disqus_shortname:    9angji-github-io.
+disqus_shortname:    9angji-github-io
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2019. by Jiyeon Kang'
