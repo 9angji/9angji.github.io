@@ -4,5 +4,5 @@ title: 체육측정평가
 slug: sme
 category: research
 menu: false
-order: 2
+order: 3
 ---
