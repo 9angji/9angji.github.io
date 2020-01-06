@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Simulation
-slug: simulation
-category: data
+title: 체육측정평가
+slug: sme
+category: thesis
 menu: false
-order: 15
+order: 2
 ---
