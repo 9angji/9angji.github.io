@@ -1,4 +1,11 @@
-# 캐글 필사
+---
+layout: post
+title: "캐글 필사 스터디 리스트"
+subtitle: "이유한님 필사 커리 참조"
+categories: study
+tags: kaggle
+comments: true
+---
 
 (캐글코리아 이유한님의 필사 커리큘럼 참조)
 
