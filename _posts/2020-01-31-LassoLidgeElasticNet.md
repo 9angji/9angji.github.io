@@ -1,4 +1,13 @@
-﻿# Lasso, Lidge, ElasticNet
+---
+layout: post
+title: "Lasso(라쏘), Lidge(리지), ElasticNet(엘라스틱넷)"
+subtitle: "공부하기"
+categories: study
+tags: statistics
+comments: true
+---
+
+# Lasso, Lidge, ElasticNet
 
 **정규화(Regularization)**
 
