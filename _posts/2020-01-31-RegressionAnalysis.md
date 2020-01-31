@@ -1,4 +1,13 @@
-﻿# 회귀분석(Regression Analysis)
+---
+layout: post
+title: "Regression Analysis(회귀분석)"
+subtitle: "공부하기"
+categories: study
+tags: statistics
+comments: true
+---
+
+# 회귀분석(Regression Analysis)
 
 ### 선형회귀분석(종속변수가 연속형인 경우)
 
